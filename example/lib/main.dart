@@ -15,7 +15,6 @@ class _MyAppState extends State<MyApp> {
   @override
   initState() {
     super.initState();
-    initPlatformState();
   }
 
   // Platform messages are asynchronous, so we initialize in an async method.
