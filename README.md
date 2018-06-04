@@ -8,3 +8,5 @@ For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
 For help on editing plugin code, view the [documentation](https://flutter.io/platform-plugins/#edit-code).
+
+### 目前仅支持安卓  不着急写 请大家不要使用

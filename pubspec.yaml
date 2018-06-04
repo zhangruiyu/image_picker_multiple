@@ -1,8 +1,11 @@
 name: image_picker_multiple
-description: A new Flutter project.
+description: A new Flutter image_picker_multiple.
 version: 0.0.1
-author:
-homepage:
+author: zhangruiyu <157418979@qq.com>
+homepage: https://github.com/zhangruiyu/image_picker_multiple
+
+environment:
+  sdk: ">=1.23.0 <2.3.0"
 
 dependencies:
   flutter:
