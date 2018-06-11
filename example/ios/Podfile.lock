@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - image_picker_multiple (0.0.1):
+    - Flutter
+    - TZImagePickerController
+  - TZImagePickerController (2.1.4)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - image_picker_multiple (from `.symlinks/plugins/image_picker_multiple/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - TZImagePickerController
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  image_picker_multiple:
+    :path: ".symlinks/plugins/image_picker_multiple/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  image_picker_multiple: ea7a93facd1cb575a7ab8b83ec2875b0b011bbe4
+  TZImagePickerController: 2a8f41ba058e215bc9b699ade241fdbcc910c2bd
+
+PODFILE CHECKSUM: 1e5af4103afd21ca5ead147d7b81d06f494f51a2
+
+COCOAPODS: 1.5.3
